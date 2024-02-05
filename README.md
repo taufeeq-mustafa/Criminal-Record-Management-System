@@ -1,5 +1,5 @@
 # Criminal-Management-System
-This repository contains source code for project that was created by Taufeeq Mustafa for SC&amp;D lab project
+This repository contains source code for project that was created by me for lab project
 # Introduction
 The Project “Criminal Record Management System” is based on Java programming language. It encompasses topics taught in SC&D lab to as much extend as possible
 # Way around
